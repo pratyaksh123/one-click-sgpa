@@ -1,5 +1,5 @@
 # One-click-SGPA
-Program to display student's semester Grade point average(SGPA) build with pysimpleGUI, python's robobrowser and BeautifulSoup library
+Program to display student's semester Grade point average(SGPA), built with pysimpleGUI, python's robobrowser and BeautifulSoup library
 
 # Procedure to use the app 
 1. Simply download the SGPA_calculator.exe and open it.
