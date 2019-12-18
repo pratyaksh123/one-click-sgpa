@@ -3,6 +3,7 @@ Program to display student's semester Grade point average(SGPA), built with pysi
 
 # Procedure to use the app 
 1. Simply download the SGPA_calculator.exe and open it.
+2. If you see a warning of windows defender or other antivirus software, allow to run the file, trust me :p
 2. Enter your LDAP-ID and password.
 3. Select your Branch and wait a bit( it may be unresponsive for few seconds).
 4. A pop message will open up to show you your SGPA.
