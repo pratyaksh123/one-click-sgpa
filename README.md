@@ -12,3 +12,4 @@ Program to display student's semester Grade point average(SGPA), built with pysi
 2. I have included a VPN services document in the respository , read it and follow the steps.
 
 # Thanks for using the APP!
+Feel free to contribute
