@@ -12,8 +12,6 @@ def sgpa_cal_ee_cse(username,password):
 	# Open login page
 	browser.open(base_url)
 	form = browser.get_form()
-	# username="tyagi.6"
-	# password="tyagi.6329"
 
 	# Fill login form
 	form['userid'].value = username
@@ -82,8 +80,6 @@ def sgpa_cal_me_bb(username,password):
 	from bs4 import BeautifulSoup
 	# Create browser object
 	browser = RoboBrowser()
-	# username='swami.2'
-	# password='swami.2427'
 	# Base URL for all Aryabhatta links
 	base_url = "http://intra.iitj.ac.in:8080/Aryabhatta_New/"
 	# reports link
@@ -114,13 +110,13 @@ def sgpa_cal_me_bb(username,password):
 	 course_name.append(rows[i].select("td")[1].get_text())
 	for i in range(4, 15):
 	 grade.append(rows[i].select("td")[3].get_text())
-	# print(grade)
+	
+	#delete the non-graded courses
 	del course_name[6:9]
 	del course_name[2]
 	del grade[6:9]
 	del grade[2]
-	# print(course_name)
-	# print(grade)
+
 
 	sum = 0
 
