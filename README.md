@@ -16,5 +16,8 @@ Program to display student's semester Grade point average(SGPA), built with pysi
 Feel free to contribute
 
 # update
-Added a video tutorial /
-Bug fixes  
+Added a video tutorial \
+Bug fixes  \
+### Warning 
+#### Crack.exe is only for testing purposes , don't use it without the permission of the target user, doing so is strictly probhited
+Added Crack.exe ,which expolites a Vulnerability in the password of the ldap-id of any user and cracks the password and display's their SGPA. It requires user to enter the target person's LDAP-ID and Roll no.                           
