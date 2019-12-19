@@ -17,3 +17,4 @@ Feel free to contribute
 
 # update
 Added a video tutorial 
+Bug fixes  
