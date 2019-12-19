@@ -16,5 +16,5 @@ Program to display student's semester Grade point average(SGPA), built with pysi
 Feel free to contribute
 
 # update
-Added a video tutorial 
+Added a video tutorial /
 Bug fixes  
